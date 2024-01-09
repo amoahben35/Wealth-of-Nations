@@ -1,4 +1,10 @@
 🌍 Wealth of Nations Dataset Analysis 📊
+Table of Contents
+Overview
+Features
+Tools Used
+How to Use
+Contributions
 Overview
 This project dives into the "Wealth of Nations" dataset, exploring, cleaning, and analyzing its treasures! Using Excel & Tableau, I've sifted through the data, revealing insights and crafting visual stories.
 
@@ -16,4 +22,10 @@ Run the analysis to uncover insights!
 Contributions
 Contributions and suggestions welcome! Let's unearth more insights together! 🤝✨
 
-Feel free to adjust the content or add more details specific to your project!
+This table of contents should help users navigate through the README more efficiently!
+
+
+
+
+
+
